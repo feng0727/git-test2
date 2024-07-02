@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello gitee1");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("hot-fix test-2024-07-02");
     }
 
 
