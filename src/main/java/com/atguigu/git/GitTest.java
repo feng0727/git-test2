@@ -20,6 +20,8 @@ public class GitTest {
         System.out.println("hot-fix test-2024-07-24_02");
 
         System.out.println("hot-fix test-2024-07-24_03");
+
+        System.out.println("fengxb-02 test-2024-07-24_01");
     }
 
 
