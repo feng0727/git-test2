@@ -29,6 +29,8 @@ public class GitTest {
         System.out.println("hot-fix test-2024-07-25_02");
 
         System.out.println("hot-fix 2024-07-25 分支1添加内容");
+
+        System.out.println("hot-fix 2024-07-25 分支1第二次添加内容");
     }
 
 
